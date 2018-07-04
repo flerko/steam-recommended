@@ -1,0 +1,11 @@
+{
+  "name": "steam-recommended",
+  "version": "1.0.0",
+  "private": false,
+  "scripts": {
+    "start": ""
+  },
+  "devDependencies": {
+
+  }
+}
